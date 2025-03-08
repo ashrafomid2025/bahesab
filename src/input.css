@@ -1,9 +1,10 @@
 @import "tailwindcss";
-@import url("/public/fonts/Iranian Sans.ttf");
+@import url("/public/fonts/Iranian\ Sans.ttf");
 @import url('/public/fonts/B-NAZANIN.TTF');
+
 @theme {
     --font-display: "Satoshi", "sans-serif";
-    --font-iran: "َA IranianSans", "sans-serif";
+    --font-iran: "َIranian Sans", "sans-serif";
     --font-iran1: "B Nazanin", "sans-serif";
     --breakpoint-3xl: 120rem;
     --color-primary: #ff00ff;
