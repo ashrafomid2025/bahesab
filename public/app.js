@@ -10,3 +10,11 @@ function addition(){
     ShowResult(currentResult);
 }
 addbtn.addEventListener('click',addition);
+//if statement
+let name1 = "Ali";
+let lastName = "Ahmadi";
+if(name1=="Ali" || lastName =="Hamidi"){
+    // statement || or 
+    //  and &&
+    console.log("Hi Good noon");
+}
